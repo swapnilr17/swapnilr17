@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/logo2.png?raw=true"/>
+  <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/logo2.png?raw=true" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Swapnil Rawat</h1>
