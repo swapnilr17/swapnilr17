@@ -17,5 +17,5 @@ Hello my name is Swapnil Rawat and i am a Software Developer who is currently pu
 [![Instagram](images/instagram.svg)](https://www.instagram.com/swapnil_r17/)
 [![Twitter](images/twitter.svg)](https://twitter.com/XavierGreek)
 [![Dribbble](images/dribbble.svg)](https://dribbble.com/swapnil_r17)
-[![Linkedin](images/linkedin.svg)](https://linkedin.com/)
+[![Linkedin](images/linkedin.svg)](https://www.linkedin.com/in/swapnil-rawat-82623916a/)
 [![Github](images/github.svg)](https://github.com/swapnilr17)<center>
