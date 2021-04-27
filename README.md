@@ -9,7 +9,7 @@
 <br>
 
 # About Me 
-Hello my name is Swapnil Rawat and i am a Software Developer who is currently pursuing his Computer Science Degree and i also like to to UI DESIGNING as a hobby.
+Hello my name is Swapnil Rawat and i am a Software Developer who is currently pursuing his Computer Science Degree and i also like to to Ui Designing as a hobby.
 
 <br>
 <br>
