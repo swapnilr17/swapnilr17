@@ -16,7 +16,7 @@ Hello my name is Swapnil Rawat and i am a Software Developer who is currently pu
 <br>
 <br>
 <br>
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=swapnilr17&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,31CCEA,0020FF&theme=graywhite" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=swapnilr17&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,#31CCEA,#0020FF" />
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilr17&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
