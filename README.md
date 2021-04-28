@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/logo3.png?raw=true" width="100%"/>
+  <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/logo-new.png?raw=true" width="100%"/>
 </p>
 <h3 text-transform="uppercase">View my <a href="https://swapnilrawat.me">Portfolio</a></h3>
 <h3 text-transform="uppercase">View my <a href="https://devdecode.tech">Blog Page</a></h3>
