@@ -2,29 +2,22 @@
   <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/Web 1920 – 2.png?raw=true" width="100%"/>
 </p>
 <table>
-<!-- <span style="background-color:blue;">
-<h3 text-transform="uppercase">View my <a href="https://swapnilrawat.me">Portfolio</a></h3>
-<h3 text-transform="uppercase">View my <a href="https://devdecode.tech">Blog Page</a></h3>
-<h3 text-transform="uppercase">View my <a href="https://www.instagram.com/dev_decode/">Instagram Tech Page</a></h3>
-</span>
-</table>
- -->
+<!-- <h1 align="center">Hi 👋, I'm Swapnil Rawat</h1> -->
+<h3 align="center">A passionate developer from India</h3>
 
-# About Me 
-Hello my name is Swapnil Rawat and i am a Software Developer who is currently pursuing his Computer Science Degree and i also like to to Ui Designing as a hobby.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilr17&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilr17" /> </p>
 
-<br>
-<br>
-<br>
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=swapnilr17&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,31ccea,0020ff&theme=synthwave" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/swapnilr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnilr17" height="30" width="40" /></a>
+<a href="https://dribbble.com/swapnil_r17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="swapnil_r17" height="30" width="40" /></a>
+</p>
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilr17&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,31ccea,0020ff&theme=synthwave" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilr17&show_icons=true&locale=en&layout=compact" alt="swapnilr17" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilr17&show_icons=true&locale=en" alt="swapnilr17" />
 
 <!--=[![Spotify](https://swapnil-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/abhcayxv3d9gnlbhg9xouq3s5) -->
-
-# Social Media Links 
-[![Instagram](images/instagram.svg)](https://www.instagram.com/dev_decode/)
-[![Twitter](images/twitter.svg)](https://twitter.com/enzo17k)
-[![Dribbble](images/dribbble.svg)](https://dribbble.com/swapnil_r17)
-[![Linkedin](images/linkedin.svg)](https://www.linkedin.com/in/swapnilr17/)
-[![Github](images/github.svg)](https://github.com/swapnilr17)<center>
