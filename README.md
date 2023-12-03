@@ -21,11 +21,11 @@ Hello my name is Swapnil Rawat and i am a Software Developer who is currently pu
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilr17&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,31ccea,0020ff&theme=synthwave" />
 
-[![Spotify](https://swapnil-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/abhcayxv3d9gnlbhg9xouq3s5)
+<!--=[![Spotify](https://swapnil-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/abhcayxv3d9gnlbhg9xouq3s5) -->
 
 # Social Media Links 
-[![Instagram](images/instagram.svg)](https://www.instagram.com/swapnil_r17/)
-[![Twitter](images/twitter.svg)](https://twitter.com/XavierGreek)
+[![Instagram](images/instagram.svg)](https://www.instagram.com/dev_decode/)
+[![Twitter](images/twitter.svg)](https://twitter.com/enzo17k)
 [![Dribbble](images/dribbble.svg)](https://dribbble.com/swapnil_r17)
-[![Linkedin](images/linkedin.svg)](https://www.linkedin.com/in/swapnil-rawat-82623916a/)
+[![Linkedin](images/linkedin.svg)](https://www.linkedin.com/in/swapnilr17/)
 [![Github](images/github.svg)](https://github.com/swapnilr17)<center>
