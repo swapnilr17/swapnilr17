@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/Web 1920 – 2.png?raw=true" width="100%"/>
+  <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/Web 1920 – 1-min.png?raw=true" width="100%"/>
 </p>
 <table>
 <!-- <h1 align="center">Hi 👋, I'm Swapnil Rawat</h1> -->
