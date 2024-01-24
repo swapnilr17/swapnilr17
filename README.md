@@ -2,9 +2,7 @@
   <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/Web 1920 – 1-min.png?raw=true" width="100%"/>
 </p>
 
-<h3 align="center">Hi 👋, I'm Swapnil Rawat</h3>
-<h4 align="center">A passionate developer from India</h4>
-<h2 align="center">About Me</h2>
+<h1>About Me</h1>
 <p>
 I'm Swapnil Rawat, a web developer from India with a passion for UI design and cloud technologies. I specialize in creating responsive and user-friendly websites using the latest web technologies, and I'm always exploring new ways to make the web more intuitive and accessible.
 </p>
