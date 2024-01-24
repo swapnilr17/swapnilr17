@@ -4,7 +4,10 @@
 
 <h3 align="center">Hi 👋, I'm Swapnil Rawat</h3>
 <h4 align="center">A passionate developer from India</h4>
-
+<h2 align="center">About Me</h2>
+<p>
+I'm Swapnil Rawat, a web developer from India with a passion for UI design and cloud technologies. I specialize in creating responsive and user-friendly websites using the latest web technologies, and I'm always exploring new ways to make the web more intuitive and accessible.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
