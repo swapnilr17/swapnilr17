@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilr17&show_icons=true&locale=en&layout=compact" alt="swapnilr17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilr17&show_icons=true&locale=en" alt="swapnilr17" />
-
-<!--=[![Spotify](https://swapnil-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/abhcayxv3d9gnlbhg9xouq3s5) -->
